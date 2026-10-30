@@ -4,7 +4,6 @@
 ## Contenido
 
 - `ProjectApp/`: aplicación Expo con los cambios más recientes.
-- `Parcial_1_Moviles/`: aplicación del parcial conservada junto al proyecto.
 - `Reporte_Consumo_Servicio_Producto.html` y `.pdf`: reportes del proyecto.
 
 ## Ejecutar la aplicación
