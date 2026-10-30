@@ -1,6 +1,5 @@
 # Proyecto académico personal
 
-Copia independiente que conserva el trabajo personal realizado hasta el 30 de octubre de 2026, incluidas las mejoras de productos personalizados, búsqueda y filtros del dashboard.
 
 ## Contenido
 
